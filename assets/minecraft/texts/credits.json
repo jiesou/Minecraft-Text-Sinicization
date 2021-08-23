@@ -1,0 +1,2929 @@
+[
+    {
+        "section": "Minecraft",
+        "titles": [
+            {
+                "title": " Minecraft 主管",
+                "names": [
+                    "Helen Chiang"
+                ]
+            },
+            {
+                "title": "首席执行官(CEO)",
+                "names": [
+                    "[乔纳斯·马丁森] Jonas Mårtensson"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "设计",
+        "titles": [
+            {
+                "title": "首席创意官",
+                "names": [
+                    "【Jeb】[延斯·“Jeb”·伯根斯坦] Jens Bergensten",
+                    "Saxs Persson"
+                ]
+            },
+            {
+                "title": "游戏总监",
+                "names": [
+                    "[昂内丝·“LadyAgnes”·拉尔森] Agnes Larsson"
+                ]
+            },
+            {
+                "title": "创意总监",
+                "names": [
+                    "Jesse Merriam",
+                    "Torfi Frans Olafsson"
+                ]
+            },
+            {
+                "title": "首席设计总监",
+                "names": [
+                    "Craig Leigh"
+                ]
+            },
+            {
+                "title": "首席游戏设计师",
+                "names": [
+                    "Rob Poerschke",
+                    "Robin V Vincent"
+                ]
+            },
+            {
+                "title": "游戏设计师",
+                "names": [
+                    "Art Usher",
+                    "Brandon Franklin (Insight Global, Inc)",
+                    "Brandon Pearce",
+                    "Cole Phillips",
+                    "Cory Scheviak",
+                    "Henrik Kniberg",
+                    "Jared Greiner",
+                    "Lauren E Careccia",
+                    "Michael Stagnitta",
+                    "Nir Vaknin",
+                    "Pradnesh Patil",
+                    "Steve Enos",
+                    "Tod Pang"
+                ]
+            },
+            {
+                "title": "叙事设计师",
+                "names": [
+                    "Max Herngren"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "程序设计",
+        "titles": [
+            {
+                "title": "首席技术官",
+                "names": [
+                    "Michael W Weilbacher"
+                ]
+            },
+            {
+                "title": "服务和运营工程负责人",
+                "names": [
+                    "Vince Curley"
+                ]
+            },
+            {
+                "title": "斯德哥尔摩工程主管",
+                "names": [
+                    "Mike Carlson"
+                ]
+            },
+            {
+                "title": "特许经营质量总监",
+                "names": [
+                    "Matthew Ng"
+                ]
+            },
+            {
+                "title": "技术总监",
+                "names": [
+                    "Christopher Östlund",
+                    "Jason Cahill",
+                    "Jason Major",
+                    "Lawrence M. Sanchez II",
+                    "Michael J. Ott",
+                    "Nathan Adams"
+                ]
+            },
+            {
+                "title": "主要游戏开发者",
+                "names": [
+                    "Gary McLaughlin",
+                    "James S Yarrow",
+                    "Mason McCuskey",
+                    "Matt Hawley",
+                    "Mikael Hedberg",
+                    "Andrew Maher",
+                    "Michael Scott"
+                ]
+            },
+            {
+                "title": "游戏开发者",
+                "names": [
+                    "Alex Green (Red Lens Games Inc)",
+                    "Alexander Östman",
+                    "Alexander Sandor",
+                    "Alexander Torstling",
+                    "Bartosz Bok",
+                    "Billy Sjöberg",
+                    "Bjarni Gudmundsson",
+                    "Brian Threvathan",
+                    "Chad George",
+                    "Cody Centers (Insight Global, Inc)",
+                    "Craig Steyn",
+                    "David Dalström",
+                    "Erik Broes",
+                    "Ethan A Hall (Collabera)",
+                    "Felix Jones",
+                    "Georgii Gavrichev",
+                    "Henning Erlandsen",
+                    "Isaac Dayton",
+                    "James Vanderheiden (Insight Global, Inc)",
+                    "Johannes Busch",
+                    "Kristoffer Kobosko",
+                    "Lily Leblanc (Insight Global, Inc)",
+                    "Matthew Gatland",
+                    "Michael Stoyke",
+                    "Nhi Vo",
+                    "Niclas Unnervik",
+                    "Nilay Karaoglu",
+                    "Pouya Ashraf",
+                    "Sean Reilly",
+                    "William Harmon (Insight Global Inc)"
+                ]
+            },
+            {
+                "title": "首席用户界面(UI)开发者",
+                "names": [
+                    "Oleg Kozitsyn",
+                    "Paulo Ragonha"
+                ]
+            },
+            {
+                "title": "用户界面(UI)开发者",
+                "names": [
+                    "Albin Odervall",
+                    "Anna Päärni",
+                    "Danila Dergachev",
+                    "Emil Hedemalm",
+                    "Eric Grimsborn",
+                    "Fernando Vía Canel",
+                    "Marlon Huber-Smith",
+                    "Oskar Pedersen",
+                    "Richard Pihlcrantz"
+                ]
+            },
+            {
+                "title": "启动器开发者",
+                "names": [
+                    "Linus Cumselius",
+                    "Lucas Morales",
+                    "Marc Neander",
+                    "Márcio Oliveira",
+                    "Martin Hesselborn",
+                    "Michael Malmqvist",
+                    "Petr Mrázek",
+                    "Piotr Kundu",
+                    "Rasmus Källqvist"
+                ]
+            },
+            {
+                "title": "首席架构师",
+                "names": [
+                    "Greg Snook",
+                    "Henry Golding",
+                    "Peter M. Wiest"
+                ]
+            },
+            {
+                "title": "架构师",
+                "names": [
+                    "Dom Humphrey",
+                    "Mike Frost",
+                    "Michael Seydl",
+                    "Robert Sanchez"
+                ]
+            },
+            {
+                "title": "首席基岩版软件开发者",
+                "names": [
+                    "Bill Carlson",
+                    "Bryan Yeo",
+                    "Chad C Meyers",
+                    "Dan Posluns",
+                    "Fanny P Vadillo Herrera",
+                    "Haronid Moncivais",
+                    "Jamie Fristrom",
+                    "Jeff McKune",
+                    "John Copic",
+                    "John Seghers",
+                    "Jonas Keating",
+                    "Mark D. Andersen",
+                    "Mark Grinols",
+                    "Maxime Bouchez",
+                    "Michael D McGrath",
+                    "Nickolas Graczyk",
+                    "Shane Pierce",
+                    "Steve Robinson",
+                    "Tyler Laing"
+                ]
+            },
+            {
+                "title": "基岩版软件开发者",
+                "names": [
+                    "A.J. Fairfield",
+                    "Aaron Woodward",
+                    "Adrian T Orszulak",
+                    "Afeez Olusegun K Bello",
+                    "Alex Troyer",
+                    "Alex Wouters (Insight Global, Inc)",
+                    "Alexander Wilkinson",
+                    "Amy Bernhoft (C2S Technologies, Inc)",
+                    "Andrew Chien (Insight Global, Inc)",
+                    "Andy Hill",
+                    "Anna Pearson (Insight Global, Inc)",
+                    "Anthony Cloudy",
+                    "Austin Larkin (Insight Global, Inc)",
+                    "Ayannah R Adegeye",
+                    "Chris BeHanna",
+                    "Coseo Frerichs (Insight Global, Inc)",
+                    "Curtis Michael Eichner",
+                    "Dan Gonyea",
+                    "Dana Zhu",
+                    "Daniel Stevens",
+                    "David Carlton",
+                    "David Cowan",
+                    "David Roberts (Insight Global, Inc)",
+                    "Declan Hopkins",
+                    "Dimitri Kishmareishvili (CSI Interfusion, Inc)",
+                    "Drew Okenfuss",
+                    "Dylan Ross (Insight Global, Inc)",
+                    "Emily Koykka",
+                    "Eric Johnston",
+                    "Eric Rehmeyer",
+                    "Garrett Allen",
+                    "Hector Llanos III",
+                    "Hector M Arriaga Pineda",
+                    "Jaafer Sheriff",
+                    "Jake Shirley",
+                    "Jason Orion Burch",
+                    "Jeff Ott",
+                    "Jeison Salazar (Insight Global, Inc)",
+                    "John Countouriotis (Populus Group, LLC)",
+                    "Jonathan R Hoof",
+                    "Joseph Kichline (Insight Global, Inc)",
+                    "Kari C Whiteside",
+                    "Kento Murawski (Insight Global, Inc)",
+                    "Kristin A Siu",
+                    "Li Yang (Insight Global Inc)",
+                    "Loren J. Merriman (Kalvi Consulting Service)",
+                    "Lucas Carpenter (Collabera)",
+                    "Lucy Lauzon (Collabera)",
+                    "Matt Staubus",
+                    "Michael Davidson (Insight Global, Inc)",
+                    "Mitchell Lee (Insight Global, Inc)",
+                    "Molly Flemming",
+                    "Nicholas Curtis",
+                    "Paul Schierman",
+                    "Radha Kotamarti",
+                    "Robert Di Battista (Insight Global, Inc)",
+                    "Robert Hunt",
+                    "Ryan Tyler Rae",
+                    "Steve Trigger (Insight Global, Inc)",
+                    "Tanner Pearson (Insight Global, Inc)",
+                    "Taylor A Feddersen",
+                    "Tristan H Schneider",
+                    "Wes Pesetti",
+                    "Will Van Keulen",
+                    "Yash Shroff",
+                    "Ying Guo (TEKsystems, Inc)",
+                    "Zack Moxley (Insight Global, Inc)",
+                    "Zane Hintzman"
+                ]
+            },
+            {
+                "title": "首席网络(Web)开发者",
+                "names": [
+                    "Joel Bergman",
+                    "Mark Jawad"
+                ]
+            },
+            {
+                "title": "Minecraft Realms 软件工程师(Java版官方订阅服务器)",
+                "names": [
+                    "Nicholas John Curtis",
+                    "Roman Timurson (Insight Global, Inc)"
+                ]
+            },
+            {
+                "title": "首席系统工程师",
+                "names": [
+                    "Jifeng Zhang",
+                    "Robert Sjödahl",
+                    "Torbjörn Allard"
+                ]
+            },
+            {
+                "title": "服务软件工程师",
+                "names": [
+                    "Alexandre Pretto Nunes",
+                    "Corey Goodman (Insight Global, Inc)",
+                    "Dan Mauk",
+                    "Emily Black",
+                    "Jahmai OSullivan",
+                    "Jonas Bergström",
+                    "Kanita Rauniyar",
+                    "Khaleel Harper",
+                    "Maksim Ivanov",
+                    "Mangal Srinivasamurthy (Design Laboratory, Inc)",
+                    "Maria Katsourani",
+                    "Matt Shore (Insight Global, Inc)",
+                    "Michael Kranz",
+                    "Mike Swartz",
+                    "Nicholas Burlingame (Insight Global, Inc)",
+                    "Nico Suc",
+                    "Norman Skinner (Insight Global, Inc)",
+                    "Pär Axelsson",
+                    "Patrick McGannon",
+                    "Petter Gisslen",
+                    "Rick Payne (Insight Global, Inc)",
+                    "Stefan Torstensson",
+                    "Wenlan Yang"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "音频",
+        "titles": [
+            {
+                "title": "首席音效设计师",
+                "names": [
+                    "[塞缪尔·阿伯格] Samuel Åberg"
+                ]
+            },
+            {
+                "title": "音效设计师",
+                "names": [
+                    "Daniel Rosenfeld",
+                    "Kevin Martinez",
+                    "Rostislav Trifonov"
+                ]
+            },
+            {
+                "title": "背景音乐作曲人",
+                "names": [
+                    "【C418】[丹尼尔·罗森费尔德] Daniel Rosenfeld",
+                    "[莉娜·雷恩] Lena Raine"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "视觉艺术",
+        "titles": [
+            {
+                "title": "艺术总监",
+                "names": [
+                    "Andy Zibits"
+                ]
+            },
+            {
+                "title": "首席艺术家",
+                "names": [
+                    "Daniel Björkefors",
+                    "Joel Garvin",
+                    "Michael Apolis",
+                    "Ryan Sand",
+                    "Telemachus Stavropoulos"
+                ]
+            },
+            {
+                "title": "艺术家",
+                "names": [
+                    "Andrea Sanchez Sepulveda (Randstad)",
+                    "Chi Wong",
+                    "Dylan Sunkel (Collabera)",
+                    "Erin Caswell (eXcell, a division of CompuCom)",
+                    "Jacob Lee (Aquent LLC)",
+                    "Jan Cariaga",
+                    "Jei G Ling (Allegis Group Services, Inc)",
+                    "Kirk Barnett",
+                    "Lilei Yu (Collabera)",
+                    "Linus Chan (TEKsystems, Inc)",
+                    "Mark Hershberger (Apex Systems, Inc)",
+                    "Michael Ray Neumann",
+                    "Peter Sheff",
+                    "Richard Worley",
+                    "Sarah Martino (Insight Global, Inc)"
+                ]
+            },
+            {
+                "title": "首席技术艺术家",
+                "names": [
+                    "Lisa Hazen"
+                ]
+            },
+            {
+                "title": "技术艺术家",
+                "names": [
+                    "Dylan Piepenbrok"
+                ]
+            },
+            {
+                "title": "图形艺术家",
+                "names": [
+                    "Jasper Boerstra",
+                    "Mattis Grahm"
+                ]
+            },
+            {
+                "title": "首席图形设计师",
+                "names": [
+                    "Christine Gutierrez"
+                ]
+            },
+            {
+                "title": "图形设计师",
+                "names": [
+                    "Adrian Leon (TEKsystems, Inc)",
+                    "Dalila Copeland (Randstad)"
+                ]
+            },
+            {
+                "title": "运动图形设计师",
+                "names": [
+                    "Brandon Korvas (Ten Gun Design, Inc)",
+                    "Kim Petersen",
+                    "Lauren Kohler (TEKsystems, Inc)"
+                ]
+            },
+            {
+                "title": "动画师",
+                "names": [
+                    "Patrick Rodes (Randstad)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "制造",
+        "titles": [
+            {
+                "title": "创造者主管",
+                "names": [
+                    "Deanna Hearns"
+                ]
+            },
+            {
+                "title": "平台工程主管",
+                "names": [
+                    "John Thornton"
+                ]
+            },
+            {
+                "title": "中国版我的世界主管",
+                "names": [
+                    "Travis Howland"
+                ]
+            },
+            {
+                "title": "商业工程主管",
+                "names": [
+                    "Ryan B Cooper"
+                ]
+            },
+            {
+                "title": "创作者市场主管",
+                "names": [
+                    "Aaron J Buckley"
+                ]
+            },
+            {
+                "title": "游戏主管",
+                "names": [
+                    "Patrick Liu"
+                ]
+            },
+            {
+                "title": "minecraft.net 主管(那个网站)",
+                "names": [
+                    "Saher M Hirji"
+                ]
+            },
+            {
+                "title": "制造总经理",
+                "names": [
+                    "Allison Matthews",
+                    "Anita Sujarit",
+                    "David Nisshagen",
+                    "Dennis Ries",
+                    "Fredrik Telenius",
+                    "Jessica Zahn",
+                    "Kayla Kinnunen",
+                    "Mike Ammerlaan",
+                    "Roger Carpenter",
+                    "Sara Jansson Bach"
+                ]
+            },
+            {
+                "title": "制造经理",
+                "names": [
+                    "Gama Aguilar-Gamez",
+                    "Klas Hammarström",
+                    "Michael McManus"
+                ]
+            },
+            {
+                "title": "制造者",
+                "names": [
+                    "Adrian Östergård",
+                    "Andrea Lam",
+                    "Ann-Kristin Adwent",
+                    "Anna Lundgren",
+                    "Antonina Khazova",
+                    "Best Liang",
+                    "Carrie Doring",
+                    "Chris Messena (Insight Global, Inc)",
+                    "Damian Finn (Lionbridge)",
+                    "David Siegel",
+                    "Diana Lind (Insight Global, Inc)",
+                    "DJ Stiner",
+                    "Dom Arcamone",
+                    "Elizabeth Batson (insight Global, Inc)",
+                    "Emily Carlson (Insight Global, Inc)",
+                    "Hai Shi",
+                    "Halishia Chugani",
+                    "Ingela Garneij",
+                    "Jewel Chukwufumn, Ifeguni",
+                    "Kara Kono",
+                    "Kasia Swica",
+                    "Katie Ellison",
+                    "Kaya Hatcher",
+                    "Kelly Henckel",
+                    "Kristina M. Ashment",
+                    "Loudon St Hill (Insight Global, Inc)",
+                    "Madeline E Psenka",
+                    "Marcus Bodin",
+                    "Markus Waltré",
+                    "Melinda Knight",
+                    "Micah Myerscough",
+                    "Micky Yamaguchi",
+                    "Nathan K Rose",
+                    "Nicole Alers",
+                    "Nikoo Jorjani",
+                    "Riccardo Lenzi",
+                    "Sebastian Falk",
+                    "Stephen A Scott",
+                    "Tia Marie Dalupan-Wong",
+                    "Todd Baldwin"
+                ]
+            },
+            {
+                "title": "工程经理",
+                "names": [
+                    "Erika Renlund",
+                    "Mac Maistrelli"
+                ]
+            },
+            {
+                "title": "组织教练",
+                "names": [
+                    "Marie Stålkrantz",
+                    "Yassal Sundman"
+                ]
+            },
+            {
+                "title": "首席发布管理",
+                "names": [
+                    "David Fries"
+                ]
+            },
+            {
+                "title": "发布管理",
+                "names": [
+                    "Josh Mulanax",
+                    "Joshua Bullard",
+                    "Kyle Rogers (Randstad)"
+                ]
+            },
+            {
+                "title": "质量控制",
+                "names": [
+                    "Matthew Dryden",
+                    "Thommy Siverman"
+                ]
+            },
+            {
+                "title": "质量工程师",
+                "names": [
+                    "Zackarias Gustavsson"
+                ]
+            },
+            {
+                "title": "技术作家",
+                "names": [
+                    "Joshua Jones (Insight Global, Inc)",
+                    "Jeff Kim (Insight Global, Inc)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "品牌创意",
+        "titles": [
+            {
+                "title": "品牌创意主管",
+                "names": [
+                    "Katharina Hautz"
+                ]
+            },
+            {
+                "title": "创意总监",
+                "names": [
+                    "Markus Toivonen"
+                ]
+            },
+            {
+                "title": "首席品牌制作",
+                "names": [
+                    "Åsa Skogström"
+                ]
+            },
+            {
+                "title": "品牌艺术总监",
+                "names": [
+                    "Martin Johansson"
+                ]
+            },
+            {
+                "title": "品牌制作",
+                "names": [
+                    "Hampus Nilsson",
+                    "Jenny Ahnell",
+                    "Lisa Kempe"
+                ]
+            },
+            {
+                "title": "品控制经理",
+                "names": [
+                    "Celene Tolentino (Harvey Nash)",
+                    "Dana Mack (Harvey Nash)"
+                ]
+            },
+            {
+                "title": "首席消费品制作",
+                "names": [
+                    "Milo Bengtsson"
+                ]
+            },
+            {
+                "title": "消费品创意主管",
+                "names": [
+                    "Antti Meriluoto"
+                ]
+            },
+            {
+                "title": "消费品制作",
+                "names": [
+                    "Josefin Olsson"
+                ]
+            },
+            {
+                "title": "消费品产品设计师",
+                "names": [
+                    "Débora Martins",
+                    "Filip Thoms",
+                    "Sherin Kwan"
+                ]
+            },
+            {
+                "title": "媒体主管 & 活动制作",
+                "names": [
+                    "Sarah Carton"
+                ]
+            },
+            {
+                "title": "媒体制作",
+                "names": [
+                    "Adele Major",
+                    "Johan Kvarnermo"
+                ]
+            },
+            {
+                "title": "活动制作",
+                "names": [
+                    "Charlotte Hallberg Angantyr"
+                ]
+            },
+            {
+                "title": "游戏体验制作",
+                "names": [
+                    "Nicolette Suraga",
+                    "Renee Wikander",
+                    "Tim Mardell"
+                ]
+            },
+            {
+                "title": "创意传播总监",
+                "names": [
+                    "Owen Jones"
+                ]
+            },
+            {
+                "title": "创意传播主管",
+                "names": [
+                    "Thomas Wiborgh"
+                ]
+            },
+            {
+                "title": "创意作家",
+                "names": [
+                    "Cristina Anderca",
+                    "Kelsey Howard",
+                    "Per Landin",
+                    "Sofia Dankis"
+                ]
+            },
+            {
+                "title": "出版编辑",
+                "names": [
+                    "Alex Wiltshire"
+                ]
+            },
+            {
+                "title": "社交媒体主管",
+                "names": [
+                    "Alice Löfgren"
+                ]
+            },
+            {
+                "title": "社交 & 通讯制作",
+                "names": [
+                    "Isabella Balk"
+                ]
+            },
+            {
+                "title": "社交媒体经理",
+                "names": [
+                    "Alex Fleck (Adecco)",
+                    "David Ramos (Collabera)",
+                    "Julian Tunru",
+                    "Ross Keatley"
+                ]
+            },
+            {
+                "title": "艺术总监",
+                "names": [
+                    "Johan Aronsson",
+                    "Ninni Landin",
+                    "Ola Lanteli",
+                    "Wiktor Persson"
+                ]
+            },
+            {
+                "title": "艺术活动主管",
+                "names": [
+                    "Amanda Ström"
+                ]
+            },
+            {
+                "title": "艺术社交主管",
+                "names": [
+                    "Seung Sung"
+                ]
+            },
+            {
+                "title": "图形设计师",
+                "names": [
+                    "Markus Karlsson Frost"
+                ]
+            },
+            {
+                "title": "3D 艺术家/运动图形设计师",
+                "names": [
+                    "Jesper Hallin"
+                ]
+            },
+            {
+                "title": "GFX 设计师 (大概是海报设计？)",
+                "names": [
+                    "Afshin “Affe” Piran"
+                ]
+            },
+            {
+                "title": "艺术家",
+                "names": [
+                    "Morten Rasmussen"
+                ]
+            },
+            {
+                "title": "游戏性获取艺术家",
+                "names": [
+                    "Husein Kurbegovic"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "用户体验",
+        "titles": [
+            {
+                "title": "用户体验设计总监",
+                "names": [
+                    "Anna Wendelin"
+                ]
+            },
+            {
+                "title": "用户体验设计主管",
+                "names": [
+                    "Jonathan Paton Gallina"
+                ]
+            },
+            {
+                "title": "用户体验设计",
+                "names": [
+                    "Daniel Feldt",
+                    "Jin Shin",
+                    "Josefine Lindqvist",
+                    "Sandra Bornemark",
+                    "Tom Keen (TEKsystems, Inc)",
+                    "Unn Swanström"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "业务",
+        "titles": [
+            {
+                "title": "特许经营首席业务官",
+                "names": [
+                    "Annie Chenn"
+                ]
+            },
+            {
+                "title": "斯德哥尔摩业务主管",
+                "names": [
+                    "Ulrika Höjgård"
+                ]
+            },
+            {
+                "title": "特许经营业务负责人",
+                "names": [
+                    "Josh Bligenstorffer"
+                ]
+            },
+            {
+                "title": "参谋长",
+                "names": [
+                    "Amy Stillion"
+                ]
+            },
+            {
+                "title": "人力资源(HR)",
+                "names": [
+                    "Aleksandra Zajac",
+                    "David Hill",
+                    "Ida Utterström",
+                    "Ludwig Moberg Edenbäck",
+                    "Maja Samuelsson",
+                    "Sofia Andersson",
+                    "Ulrika Karlsson"
+                ]
+            },
+            {
+                "title": "办公室经理",
+                "names": [
+                    "Siri Hoel Andersson"
+                ]
+            },
+            {
+                "title": "办公室协调员",
+                "names": [
+                    "Joël Älveroth"
+                ]
+            },
+            {
+                "title": "执行业务管理员",
+                "names": [
+                    "Erin Decker",
+                    "Judy Wheeler",
+                    "Katy Hanson",
+                    "Lisa Liu"
+                ]
+            },
+            {
+                "title": "门面",
+                "names": [
+                    "Adam Blänning"
+                ]
+            },
+            {
+                "title": "IT经理",
+                "names": [
+                    "Cesar Sima Falck",
+                    "Jason Perry Minard"
+                ]
+            },
+            {
+                "title": "IT",
+                "names": [
+                    "Adam MacDowall",
+                    "Anton \"Mr\" Wu",
+                    "Carl Johan Swärd",
+                    "Daniel Miller (Insight Global, Inc)",
+                    "Dolly MacKwan",
+                    "Evelina Rollfelt",
+                    "Shoghi Cervantes",
+                    "Yaser Mosavi"
+                ]
+            },
+            {
+                "title": "业务经理",
+                "names": [
+                    "Sheila Ho"
+                ]
+            },
+            {
+                "title": "首席自动化支持",
+                "names": [
+                    "Matthew C. Moreno"
+                ]
+            },
+            {
+                "title": "自动化支持",
+                "names": [
+                    "Chris Ilson (Collabera)",
+                    "Corey Smith (Insight Global, Inc)",
+                    "Johnny Cocks (Collabera)",
+                    "Jordan Crockett (TEKsystems, Inc)",
+                    "Matthew Gustaff (Digital Intelligence Systems LLC)",
+                    "Sean Connolly (Insight Global, Inc)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "数据和分析",
+        "titles": [
+            {
+                "title": "数据科学和分析主管",
+                "names": [
+                    "Francisco Rius"
+                ]
+            },
+            {
+                "title": "数据科学主管",
+                "names": [
+                    "Abby Gaddis"
+                ]
+            },
+            {
+                "title": "数据工程主管",
+                "names": [
+                    "Bill Chism"
+                ]
+            },
+            {
+                "title": "数据科学",
+                "names": [
+                    "Anh Ying Lang (Design Laboratory Inc)",
+                    "Bhrigu Shree",
+                    "Conor Maguire (Kelly Mitchell Group, Inc)",
+                    "Cyrus Rustomji (Kelly Mitchell Group, Inc)",
+                    "Dusanka Poljak (Design Laboratory Inc)",
+                    "Forrest Wheeler (Insight Global, Inc)",
+                    "Grant Jenkins",
+                    "Jake Kelly",
+                    "Matthew Skirvin",
+                    "Max Davidson",
+                    "Mel Alleyne",
+                    "Mike Hernandez (Insight Global, Inc)",
+                    "Natalie Selin",
+                    "Swathi Sivadas"
+                ]
+            },
+            {
+                "title": "数据工程",
+                "names": [
+                    "Bill Klees",
+                    "Dhiraj Nilange",
+                    "Sachin Dekate (Design Laboratory Inc)",
+                    "Smitha Menon"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "用户研究",
+        "titles": [
+            {
+                "title": "用户研究工作室负责人",
+                "names": [
+                    "Jerome Hagen"
+                ]
+            },
+            {
+                "title": "用户研究",
+                "names": [
+                    "Melissa Boone",
+                    "Olga Zielinska",
+                    "Pablo Morales"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "业务 & 许可",
+        "titles": [
+            {
+                "title": "首席特许经营业务管理",
+                "names": [
+                    "Scott Dell'Osso"
+                ]
+            },
+            {
+                "title": "首席业务 & 许可",
+                "names": [
+                    "Kayleen Walters"
+                ]
+            },
+            {
+                "title": "首席媒体官",
+                "names": [
+                    "Vu Bui"
+                ]
+            },
+            {
+                "title": "业务发展总监",
+                "names": [
+                    "Bob Brennecke",
+                    "Federico San Martin",
+                    "Jeremy Snook",
+                    "Patrick Geuder"
+                ]
+            },
+            {
+                "title": "企业管理总监",
+                "names": [
+                    "Amy Zou",
+                    "Michelle Hua",
+                    "Stephen McHugh"
+                ]
+            },
+            {
+                "title": "业务经理",
+                "names": [
+                    "Adam Lemcio",
+                    "Alina Skripnik",
+                    "Ani Grey",
+                    "Bill Lindell",
+                    "Catherine Hendrix",
+                    "Christy Weckner",
+                    "Daniel Beasley",
+                    "David K Lau",
+                    "Dev Hazarika",
+                    "Eileen Lee",
+                    "Ellen Hahm",
+                    "Eric Taylor",
+                    "Eve Vashkus",
+                    "Julie Olden",
+                    "Leslie Tullis",
+                    "Luis Qiang Liu",
+                    "Maru Zamora",
+                    "Nedra Wilson",
+                    "Nichole Green",
+                    "Rebecca A Miller",
+                    "Stephanie Louie",
+                    "Tess N Opincarne (Amaxra)"
+                ]
+            },
+            {
+                "title": "业务发展经理",
+                "names": [
+                    "Inga Chamberlain"
+                ]
+            },
+            {
+                "title": "业务研究",
+                "names": [
+                    "Keiko Ramer (Apex Systems, Inc)",
+                    "Kristin Grein",
+                    "Zheng Wang (Populus Group, LLC)"
+                ]
+            },
+            {
+                "title": "日本地区经理",
+                "names": [
+                    "Yutaka Noma"
+                ]
+            },
+            {
+                "title": "合伙人管理总监",
+                "names": [
+                    "Todd Stevens"
+                ]
+            },
+            {
+                "title": "合作项目经理",
+                "names": [
+                    "Quinn Richter"
+                ]
+            },
+            {
+                "title": "内容协调",
+                "names": [
+                    "Oskar Thysell"
+                ]
+            },
+            {
+                "title": "项目经理",
+                "names": [
+                    "Bryan G. Bonham",
+                    "Christopher Dauchot (Insight Global, Inc)",
+                    "Gregory Walls (CompuCom Systems Inc)",
+                    "John C. Mercil (CompuCom Systems Inc)",
+                    "Joshua Ayala (Insight Global, Inc)",
+                    "Kaiwen Li (Populus Group, LLC)",
+                    "Laylah Stanley Si Bulman",
+                    "Liz Butowicz (Bluehawk LLC)",
+                    "Mark Fredo (Aerotek Inc)",
+                    "Natalie Haggin (Simplicity Consulting Inc)",
+                    "Steven Hosey (Simplicity Consulting Inc)",
+                    "Susie Tinker",
+                    "Vince-Davis Espino (Insight Global, Inc)",
+                    "Wendy Gorton"
+                ]
+            },
+            {
+                "title": "首席工作室合规",
+                "names": [
+                    "Eric Odell-Hein"
+                ]
+            },
+            {
+                "title": "工作室合规研究",
+                "names": [
+                    "Justin Ray (Design Laboratory Inc)"
+                ]
+            },
+            {
+                "title": "首席知识产权执法",
+                "names": [
+                    "Gaylon Blank"
+                ]
+            },
+            {
+                "title": "类别经理",
+                "names": [
+                    "Audrey Searcy",
+                    "Emily Clock",
+                    "Georgia Marra",
+                    "Hanna Willis",
+                    "Shabnam Elmi (Jeffrey M Consulting LLC)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "玩家操作",
+        "titles": [
+            {
+                "title": "玩家支持总监",
+                "names": [
+                    "Anne Quaranta"
+                ]
+            },
+            {
+                "title": "社区总监",
+                "names": [
+                    "Nea Aime Rollan"
+                ]
+            },
+            {
+                "title": "社区经理",
+                "names": [
+                    "Cameron Thomas",
+                    "Jay Wells",
+                    "Joel Sasaki",
+                    "Kristina Horner",
+                    "Lindsey Schaal (Apex Systems Inc)",
+                    "Matt Gartzke",
+                    "Trella Rath (Corestaff)"
+                ]
+            },
+            {
+                "title": "客户支持程序经理",
+                "names": [
+                    "Jon-Eric L. Swigart (Collabera)"
+                ]
+            },
+            {
+                "title": "首席客户支持",
+                "names": [
+                    "Jen Pedersen"
+                ]
+            },
+            {
+                "title": "客户支持",
+                "names": [
+                    "Kyle McMurtry (TEKsystems, Inc)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "营销",
+        "titles": [
+            {
+                "title": "营销主管",
+                "names": [
+                    "Jessica Freeman"
+                ]
+            },
+            {
+                "title": "营销总监",
+                "names": [
+                    "Fergus Lynch",
+                    "Jeanie DuMont"
+                ]
+            },
+            {
+                "title": "营销经理",
+                "names": [
+                    "Anton Maslennikov",
+                    "Ashley Davidson (Simplicity Consulting Inc)",
+                    "Egil G. Gloersen",
+                    "Gabi Ibarra (Simplicity Consulting Inc)",
+                    "Gaylord Escalona",
+                    "Jaime Limon",
+                    "Jeff Rivait",
+                    "Katie Penza",
+                    "Lindsay Auten (Simplicity Consulting Inc)",
+                    "Melissa Jenkins (Ten Gun Design, Inc)",
+                    "Nathaniel Wipfler",
+                    "Nick Ketter",
+                    "Sara Cornish"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "法律",
+        "titles": [
+            {
+                "title": "法律主管",
+                "names": [
+                    "Nick Morgan"
+                ]
+            },
+            {
+                "title": "法律顾问",
+                "names": [
+                    "Kari Annand (Snodgrass Annand)",
+                    "Maya Yamazaki (Davis Wright Tremaine)",
+                    "Tim Han",
+                    "Tricia Geyer"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "通讯",
+        "titles": [
+            {
+                "title": "首席故事员",
+                "names": [
+                    "Lydia Winters"
+                ]
+            },
+            {
+                "title": "资深媒体制作",
+                "names": [
+                    "Carina Petersson"
+                ]
+            },
+            {
+                "title": "制作",
+                "names": [
+                    "Sofia Orrheim"
+                ]
+            },
+            {
+                "title": "全球公共关系总监",
+                "names": [
+                    "Regan O’Leary"
+                ]
+            },
+            {
+                "title": "全球公共关系经理",
+                "names": [
+                    "John Schork",
+                    "Rebecca Gordius"
+                ]
+            },
+            {
+                "title": "Assembly 媒体公司",
+                "names": [
+                    "Alli Cohen",
+                    "Cristian Delgado",
+                    "Erin Dwyer",
+                    "Jesse Steinberg",
+                    "Richard Chen",
+                    "Vanessa Mora"
+                ]
+            },
+            {
+                "title": "首席制作 - 品牌体验",
+                "names": [
+                    "Karim Walldén"
+                ]
+            },
+            {
+                "title": "网页设计",
+                "names": [
+                    "Paul Madlon (Ten Gun Design, Inc)",
+                    "Taylor Kasony (eXcell, a division of CompuCom)"
+                ]
+            },
+            {
+                "title": "网页内容经理",
+                "names": [
+                    "Joe Corrigan (Ten Gun Design, Inc)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "财务",
+        "titles": [
+            {
+                "title": "财务总监",
+                "names": [
+                    "Marina Kostesic"
+                ]
+            },
+            {
+                "title": "高级财务经理",
+                "names": [
+                    "Evan Dowdell"
+                ]
+            },
+            {
+                "title": "财务会计师",
+                "names": [
+                    "Josefina Axelsson",
+                    "Natalie Levinsson",
+                    "Strefan Lyrmark"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "工作室质量团队 - Microsoft",
+        "titles": [
+            {
+                "title": "质量总监",
+                "names": [
+                    "Jimmy Bischoff"
+                ]
+            },
+            {
+                "title": "质量经理",
+                "names": [
+                    "Rob Straavaldson"
+                ]
+            },
+            {
+                "title": "首席质量",
+                "names": [
+                    "Craig Marshall",
+                    "Dan Pipinich",
+                    "Hakim Ronaque",
+                    "Michael McCormack",
+                    "Rich Levy",
+                    "Tyler Moeller"
+                ]
+            },
+            {
+                "title": "质量工程师",
+                "names": [
+                    "Fiona Belmont",
+                    "Joe Whitman",
+                    "Ryan Mayes"
+                ]
+            },
+            {
+                "title": "质量数据研究 & 工程师",
+                "names": [
+                    "Chelsi Hohnbaum",
+                    "Lisa Porter"
+                ]
+            },
+            {
+                "title": "软件工程师",
+                "names": [
+                    "Jay Baxter"
+                ]
+            },
+            {
+                "title": "质量研究",
+                "names": [
+                    "Agata Marciniak",
+                    "Aidan Bower",
+                    "Ben Weber",
+                    "Dalrek Davis",
+                    "Erik Davis",
+                    "Mark McAllister",
+                    "Melissa Moorehead",
+                    "Michelle Hyde",
+                    "Mike Su",
+                    "Mimi Guarino",
+                    "Tom Brisbane",
+                    "Tom French"
+                ]
+            },
+            {
+                "title": "特别感谢",
+                "names": [
+                    "Alex Luschen – Executive Business Administrator",
+                    "Allen Horton – Technology and Infrastructure",
+                    "Andrew Franklin – Outsourcing Manager",
+                    "Dante Carrasco – Business Manager",
+                    "David Boker – Director XGS Business Operations",
+                    "James Fry – Quality Manager, Studios Quality UK",
+                    "Jonny Stacey – Data Engineering, Studios Quality UK",
+                    "Zoe Harrop - Senior Business Coordinator, Studios Quality UK"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "工作室质量团队 - 美国",
+        "titles": [
+            {
+                "title": "测试经理",
+                "names": [
+                    "Tom Dieterich (Experis) - Test Manager, Tempe"
+                ]
+            },
+            {
+                "title": "首席软件测试工程",
+                "names": [
+                    "Bob Green (Experis)",
+                    "Chris Wilson (Experis)",
+                    "Maria Berube (Experis)"
+                ]
+            },
+            {
+                "title": "软件测试工程",
+                "names": [
+                    "Antoine Brown (Experis)",
+                    "Benjamin Sousa (Experis)",
+                    "Eric Saxon (Experis)",
+                    "James Lawrence (Experis)",
+                    "Jared Barnhill (Experis)",
+                    "Jessica Armstrong (Experis)",
+                    "Kai VanDrunen (Experis)",
+                    "Kaitlyn Grace (Experis)",
+                    "Norah Hogoboom (Insight Global, Inc)",
+                    "Robert Bergeron (Experis)",
+                    "Robert Cleveland (Experis)",
+                    "Samuel Tharp (Experis)",
+                    "Sean Dugan (Experis)",
+                    "Traci Jenkins (Experis)"
+                ]
+            },
+            {
+                "title": "测试助理",
+                "names": [
+                    "Chris Youngs (Experis)",
+                    "Jared Arbaugh (Experis)",
+                    "Jocylyn Engstrom (Experis)",
+                    "Jonathan Lee (Experis)",
+                    "Jonathon Ervin (Experis)",
+                    "Justin Smick (Experis)",
+                    "Kayla Cherry (Experis)",
+                    "Marvin Melitante (Experis)",
+                    "Peter Lovely (Experis)",
+                    "Rita-Lynn Dibble (Experis)",
+                    "Ryan Atwater (Experis)",
+                    "Tori Gasca (Experis)"
+                ]
+            },
+            {
+                "title": "特别感谢",
+                "names": [
+                    "Aaron Brindell (Experis)",
+                    "Aaron Ingram (Experis)",
+                    "Brian Canning (Experis) – Test Manager, Tempe",
+                    "Carol Stearns (Experis)",
+                    "Erica Davis (Experis)",
+                    "Frank Criscione Experis)",
+                    "Gavin Kennedy (Experis)",
+                    "Jay Piette (Experis) – Test Manager, Tempe",
+                    "Jeffrey Guyton (Insight Global, Inc) – Account Manager",
+                    "Julie Loucks (Experis)",
+                    "Lucas Rathburn (Experis)",
+                    "Mark Medlock (Experis)",
+                    "Paul Gradwohl (Experis)",
+                    "Theresa Pudenz (Experis)",
+                    "Zachary Bohnenkamp (Experis) – Program Manager"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "特别感谢",
+        "titles": [
+            {
+                "title": "Albert Pastore - 业务发展、音乐和人才总监",
+                "names": [
+                    "4J Studios",
+                    "Andrew Pritchard - Release Management",
+                    "Dan Roque – Creature Developer",
+                    "Daniel Brynolf",
+                    "John Olarte (DrZhark) - Creature Developer",
+                    "Julian Gough - Writer",
+                    "Kent Christian Jensen – Creature Developer",
+                    "Pontus Hammarberg",
+                    "Reza Elghazi - Developer Account Manager",
+                    "Stephanie Golden (Insight Global, Inc) – Account Manager",
+                    "The PlayFab Team",
+                    "The Xbox Live Team"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "开发合作伙伴：Lionbridge 质量 - 波兰",
+        "titles": [
+            {
+                "title": "测试总监",
+                "names": [
+                    "Michał Błoński (Lionbridge)"
+                ]
+            },
+            {
+                "title": "高级全球测试经理",
+                "names": [
+                    "Grzegorz Kohorewicz (Lionbridge)"
+                ]
+            },
+            {
+                "title": "全球测试经理",
+                "names": [
+                    "Mateusz Kałuża (Lionbridge)"
+                ]
+            },
+            {
+                "title": "首席测试",
+                "names": [
+                    "Beata Jastrzębska (Lionbridge)"
+                ]
+            },
+            {
+                "title": "首席团队",
+                "names": [
+                    "Kamil Kostrzewa (Lionbridge)",
+                    "Michał Sławek (Lionbridge)",
+                    "Sebastian Polanica (Lionbridge)",
+                    "Wojciech Kujawa (Lionbridge)"
+                ]
+            },
+            {
+                "title": "首席合规",
+                "names": [
+                    "Łukasz Mikusek (Lionbridge)"
+                ]
+            },
+            {
+                "title": "软件测试工程师",
+                "names": [
+                    "Adam Rączkowski (Lionbridge)",
+                    "Agata Dzideczek (Lionbridge)",
+                    "Damian Gabryś (Lionbridge)",
+                    "Iwona Cieśla (Lionbridge)",
+                    "Jarosław Żebrowski (Lionbridge)",
+                    "Joanna Walkowiak-Pachnik (Lionbridge)",
+                    "Karim Zemirli (Lionbridge)",
+                    "Kinga Izdebska (Lionbridge)",
+                    "Łukasz Jankowski (Lionbridge)",
+                    "Maciej Łajszczak (Lionbridge)",
+                    "Marcin Rosłon (Lionbridge)",
+                    "Marcin Słoniewski (Lionbridge)",
+                    "Mariusz Gil (Lionbridge)",
+                    "Michał Cieślak (Lionbridge)",
+                    "Patryk Telus (Lionbridge)",
+                    "Piotr Jasiński (Lionbridge)",
+                    "Tomasz Bokotko (Lionbridge)",
+                    "Zofia Lenarczyk (Lionbridge)"
+                ]
+            },
+            {
+                "title": "合规测试工程师",
+                "names": [
+                    "Witold Januszewski-Skup (Lionbridge)"
+                ]
+            },
+            {
+                "title": "测试助理",
+                "names": [
+                    "Ada Kierzkowska (Lionbridge)",
+                    "Adam Krasieńko (Lionbridge)",
+                    "Adam Sołtanowski (Lionbridge)",
+                    "Adam Zawadzki (Lionbridge)",
+                    "Adrian Jakóbczak (Lionbridge)",
+                    "Agnieszka Sobieszuk (Lionbridge)",
+                    "Albert Wujkowski (Lionbridge)",
+                    "Aleksander Bratkowski (Lionbridge)",
+                    "Aleksander Skiba (Lionbridge)",
+                    "Aleksandra Traczyk (Lionbridge)",
+                    "Andrzej Tkaczenko (Lionbridge)",
+                    "Anna Kacprzak (Lionbridge)",
+                    "Antoni Gazecki (Lionbridge)",
+                    "Antoni Wiatrowski (Lionbridge)",
+                    "Arek Czarnecki (Lionbridge)",
+                    "Arkadiusz Grzanka (Lionbridge)",
+                    "Artur Kulesza (Lionbridge)",
+                    "Bartłomiej Kowalik (Lionbridge)",
+                    "Bartłomiej Krupiński (Lionbridge)",
+                    "Bartłomiej Słodkowski (Lionbridge)",
+                    "Bartłomiej Żukowski (Lionbridge)",
+                    "Bartosz Bińka (Lionbridge)",
+                    "Bartosz Jamroziński (Lionbridge)",
+                    "Bartosz Kuchta (Lionbridge)",
+                    "Bartosz Waleśkiewicz (Lionbridge)",
+                    "Błażej Rajewski (Lionbridge)",
+                    "Cezary Chobot (Lionbridge)",
+                    "Daniel Bojar (Lionbridge)",
+                    "Daniel Dełczew (Lionbridge)",
+                    "Daniel Kocęba (Lionbridge)",
+                    "Daniel Kuchciński (Lionbridge)",
+                    "Daniel Moczydłowski (Lionbridge)",
+                    "Daniel Niewiadomski (Lionbridge)",
+                    "Daria Gajowniczek (Lionbridge)",
+                    "Dawid Dudasz (Lionbridge)",
+                    "Dominik Hałatkiewicz (Lionbridge)",
+                    "Eliza Duda (Lionbridge)",
+                    "Eryk Czerski (Lionbridge)",
+                    "Eugeniusz Kosieradzki (Lionbridge)",
+                    "Filip Maciejewski (Lionbridge)",
+                    "Filip Sobczak (Lionbridge)",
+                    "Gabriel Gałuszka (Lionbridge)",
+                    "Grzegorz Irek (Lionbridge)",
+                    "Grzegorz Wilkołek (Lionbridge)",
+                    "Grzegorz Ziółek (Lionbridge)",
+                    "Hubert Karwicki (Lionbridge)",
+                    "Ignacy Kukliński (Lionbridge)",
+                    "Jacek Zdzymira (Lionbridge)",
+                    "Jakub Cymbalista (Lionbridge)",
+                    "Jakub Czerwiński (Lionbridge)",
+                    "Jakub Górnicki (Lionbridge)",
+                    "Jakub Kwiatkowski (Lionbridge)",
+                    "Jakub Ołdak (Lionbridge)",
+                    "Jakub Sawicki (Lionbridge)",
+                    "Jakub Zdzieborski (Lionbridge)",
+                    "Jakub Zgajewski (Lionbridge)",
+                    "Jan Tworkowski (Lionbridge)",
+                    "Joanna Jablonska (Lionbridge)",
+                    "Justyna Gorzkowska (Lionbridge)",
+                    "Kacper Kobyliński (Lionbridge)",
+                    "Kamil Konarski (Lionbridge)",
+                    "Kamil Marut (Lionbridge)",
+                    "Kamil Szczepański (Lionbridge)",
+                    "Karol Frączek (Lionbridge)",
+                    "Karol Mikusek (Lionbridge)",
+                    "Karol Samek (Lionbridge)",
+                    "Katarzyna Moskalewicz (Lionbridge)",
+                    "Katarzyna Smektalska (Lionbridge)",
+                    "Konrad Czaplewski (Lionbridge)",
+                    "Krzysztof Górski (Lionbridge)",
+                    "Krzysztof Jeżak (Lionbridge)",
+                    "Krzysztof Łuczyński (Lionbridge)",
+                    "Krzysztof Połeć (Lionbridge)",
+                    "Krzysztof Rozwadowski (Lionbridge)",
+                    "Krzysztof Staniewski (Lionbridge)",
+                    "Krzysztof Uściłowski (Lionbridge)",
+                    "Krzysztof Wiśniewski (Lionbridge)",
+                    "Luisa Cordero-Polańska",
+                    "Łukasz Marek (Lionbridge)",
+                    "Łukasz Mętrak (Lionbridge)",
+                    "Łukasz Michalak (Lionbridge)",
+                    "Łukasz Stępkowski (Lionbridge)",
+                    "Maciej Gończ (Lionbridge)",
+                    "Maciej Piórnik (Lionbridge)",
+                    "Maciej Ryznar (Lionbridge)",
+                    "Maciej Siemieniec (Lionbridge)",
+                    "Magdalena Maciejewska (Lionbridge)",
+                    "Magdalena Marek (Lionbridge)",
+                    "Magdalena Wardak (Lionbridge)",
+                    "Maksymilian Kowalski (Lionbridge)",
+                    "Maksymilian Wolf (Lionbridge)",
+                    "Malwina Zacharek (Lionbridge)",
+                    "Marcin Bartmański (Lionbridge)",
+                    "Marcin Klimek (Lionbridge)",
+                    "Marcin Kusznieruk (Lionbridge)",
+                    "Marcin Mycka (Lionbridge)",
+                    "Marcin Szydło (Lionbridge)",
+                    "Mariusz Podgórski (Lionbridge)",
+                    "Mateusz Janiszewski (Lionbridge)",
+                    "Mateusz Miksa (Lionbridge)",
+                    "Mateusz Świecki (Lionbridge)",
+                    "Melchior Lewandowski-Wołosz",
+                    "Michał Juszczyk (Lionbridge)",
+                    "Michał Nowak (Lionbridge)",
+                    "Michał Szewczyk (Lionbridge)",
+                    "Mikołaj Gruźliński (Lionbridge)",
+                    "Natalia Niedziela (Lionbridge)",
+                    "Olgierd Ruszkiewicz (Lionbridge)",
+                    "Pamela Frąckowiak  (Lionbridge)",
+                    "Patrycja Kopiś (Lionbridge)",
+                    "Patryk Kowalczyk (Lionbridge)",
+                    "Patryk Rukść (Lionbridge)",
+                    "Patryk-Piotr Rosiński (Lionbridge)",
+                    "Paulina Pałdyna (Lionbridge)",
+                    "Paulina Siewierska (Lionbridge)",
+                    "Paweł Białczak (Lionbridge)",
+                    "Paweł Gos (Lionbridge)",
+                    "Paweł Kaleta (Lionbridge)",
+                    "Piotr Burkowski (Lionbridge)",
+                    "Piotr Gałecki (Lionbridge)",
+                    "Piotr Gruszczyński (Lionbridge)",
+                    "Piotr Łatyński (Lionbridge)",
+                    "Piotr Retel (Lionbridge)",
+                    "Piotr Witkowski (Lionbridge)",
+                    "Rafał Brzostowski (Lionbridge)",
+                    "Rafał Pruszkowski (Lionbridge)",
+                    "Robert Badurka-Raniecki (Lionbridge)",
+                    "Robert Jordanek (Lionbridge)",
+                    "Robert Wypasek (Lionbridge)",
+                    "Roman Zając (Lionbridge)",
+                    "Sebastian Marek (Lionbridge)",
+                    "Szczepan Grabowski (Lionbridge)",
+                    "Szymon Późniak (Lionbridge)",
+                    "Tomasz Selwat (Lionbridge)",
+                    "Weronika Szajnfeld (Lionbridge)",
+                    "Wiktor Irek (Lionbridge)",
+                    "Wojciech Olszewski (Lionbridge)",
+                    "Wojciech Skrzypkowski (Lionbridge)",
+                    "Wojciech Żukowski (Lionbridge)",
+                    "Zuzanna Gieszcz (Lionbridge)",
+                    "Zuzanna Radomska (Lionbridge)",
+                    "Zuzanna Wielkopolan (Lionbridge)"
+                ]
+            },
+            {
+                "title": "合规测试助理",
+                "names": [
+                    "Adam Czajkowski (Lionbridge)",
+                    "Adrian Zalewski (Lionbridge)",
+                    "Arkadiusz Grzesiński (Lionbridge)",
+                    "Bartosz Dąbrowski (Lionbridge)",
+                    "Jakub Malinowski (Lionbridge)",
+                    "Kaja Faber (Lionbridge)",
+                    "Maciej Ginter (Lionbridge)",
+                    "Maciej Rodak (Lionbridge)",
+                    "Marcin Bała (Lionbridge)",
+                    "Michał Tomaszewski (Lionbridge)",
+                    "Oskar Żurawski (Lionbridge)",
+                    "Piotr Orłowski (Lionbridge)",
+                    "Stanisław Świderski (Lionbridge)",
+                    "Sviatoslav Porubanskyi (Lionbridge)"
+                ]
+            },
+            {
+                "title": "特别感谢",
+                "names": [
+                    "Dariusz Sokołowski (Lionbridge)",
+                    "Evan Wright (Lionbridge)",
+                    "Matt Whiting (Lionbridge)",
+                    "Michael Friend (Lionbridge)",
+                    "Szymon Walicki (Lionbridge)",
+                    "Tomasz Pucyk (Lionbridge)",
+                    "Tugdual Delisle (Lionbridge)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "质量 - 英国",
+        "titles": [
+            {
+                "title": "测试经理",
+                "names": [
+                    "Richard H. Jones (Lionbridge)"
+                ]
+            },
+            {
+                "title": "合规测试工程师",
+                "names": [
+                    "Lee-Roy Dunn (Lionbridge)",
+                    "Nick Dorsett (Lionbridge)"
+                ]
+            },
+            {
+                "title": "数据工程师",
+                "names": [
+                    "Patrick Fraioli"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "开发伙伴：BBI",
+        "titles": [
+            {
+                "title": "程序员",
+                "names": [
+                    "Curtis Hodgins",
+                    "Devon Plourde",
+                    "Michelle Rocha",
+                    "Stevie Giovanni"
+                ]
+            },
+            {
+                "title": "程序员助理",
+                "names": [
+                    "Jacky Cai"
+                ]
+            },
+            {
+                "title": "用户界面(UI)A设计",
+                "names": [
+                    "Richelle Brunt"
+                ]
+            },
+            {
+                "title": "用户体验(UX)设计",
+                "names": [
+                    "Sam Flores"
+                ]
+            },
+            {
+                "title": "质量研究",
+                "names": [
+                    "Jamie Cheung",
+                    "Paul Pera"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "开发伙伴：Disbelief",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "Eric Nguyen",
+                    "Grue Robinson",
+                    "Tim Hagberg"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "开发伙伴：Skybox",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "Alex MacKay",
+                    "Alexandra Kabak",
+                    "Alfonso Muñoz",
+                    "Amandeep Malhi",
+                    "Amy Zhao",
+                    "Anthony Wong",
+                    "Arta Seify",
+                    "Benny Wang",
+                    "Casey White",
+                    "Chander Siddarth",
+                    "Colin Basnett",
+                    "David Getley",
+                    "Derek MacNeil",
+                    "Dylan Rueter",
+                    "Eser Kokturk",
+                    "Evgeny Kuznetsov",
+                    "Faith Chow",
+                    "Gustav Louw",
+                    "Hayden Hur",
+                    "Ilya Solnyshkin",
+                    "Jaegar Sarauer",
+                    "Jai Kristjan",
+                    "Jason Allen",
+                    "Jeffrey Chou",
+                    "Jeffrey Yamasaki",
+                    "Jennifer Barron",
+                    "Jiazhi Chang",
+                    "John Ferguson",
+                    "Jon Head",
+                    "Josue Pacheco",
+                    "Jun Luo",
+                    "Justin Tim",
+                    "Leo Hewitt",
+                    "Leonardo Stark",
+                    "Madeeha Ahmed",
+                    "Michel Morin",
+                    "Mingzhuo Zhang",
+                    "Nathan Lacey",
+                    "Oliver Cannon",
+                    "Orhun Erkilic",
+                    "Rick Huang",
+                    "Sam Martens",
+                    "Shiva Gupta",
+                    "Shyang Kong",
+                    "Sim Sahin",
+                    "Steve Silverster",
+                    "Steven Wong",
+                    "Tina Dhaliwal",
+                    "Todd Saharchuk",
+                    "Vassil Anguelov",
+                    "Vicky Huang",
+                    "Vivian Ortenzi",
+                    "Yaw Obiri-Yeboah",
+                    "Younggi Kim",
+                    "Zike Wu"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "开发伙伴：Red Lens Games",
+        "titles": [
+            {
+                "title": "主管",
+                "names": [
+                    "Jared Noftle"
+                ]
+            },
+            {
+                "title": "制作",
+                "names": [
+                    "Allie Murdock"
+                ]
+            },
+            {
+                "title": "首席软件工程师",
+                "names": [
+                    "Kyle Walsh",
+                    "Nathan Carlson"
+                ]
+            },
+            {
+                "title": "软件工程师",
+                "names": [
+                    "Alan Nelson",
+                    "Andre Tremblay",
+                    "Arend Danielek",
+                    "Dane Curbow",
+                    "Kelby Lawson",
+                    "Ryan Edgemon",
+                    "Stephen Chiavelli",
+                    "Tim Royal",
+                    "Zach Bowman"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "开发伙伴：Virtuosity",
+        "titles": [
+            {
+                "title": "游戏开发",
+                "names": [
+                    "Aishwarya Jayabal (Virtuosity)",
+                    "Ganesh Sethy (Virtuosity)",
+                    "Janani Senrayaperumal (Virtuosity)",
+                    "Maha Srinivasan (Virtuosity)",
+                    "Nandha Arulanandam (Virtuosity)",
+                    "Nazia Nazia (Virtuosity)",
+                    "Packiyanath Sivathanu (Virtuosity)",
+                    "Prabhu Venkatraman Iyer (Virtuosity)",
+                    "Shagun Sharma Tamta (Virtuosity)",
+                    "Shanmugam Sanjay (Virtuosity)",
+                    "Sheena Mathew (Virtuosity)",
+                    "Sripriya Gunasekaran (Virtuosity)",
+                    "Sriram Sreenivasan (Virtuosity)",
+                    "Sumit Kumar Suman (Virtuosity)",
+                    "Swati S Thakar (Virtuosity)",
+                    "Vivek Kumar (Virtuosity)"
+                ]
+            },
+            {
+                "title": "制造",
+                "names": [
+                    "Chokkalingam Ramu Kuppaswamy (Virtuosity)",
+                    "Shanthi Kanchibhotla (Virtuosity)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Mojang 朋友",
+        "titles": [
+            {
+                "title": "Minecraft 原始创造者",
+                "names": [
+                    "【Notch】[马库斯·佩尔松] Markus Persson"
+                ]
+            },
+            {
+                "title": "Minecraft 主管",
+                "names": [
+                    "Matt Booty"
+                ]
+            },
+            {
+                "title": "Minecraft Atlas 主管",
+                "names": [
+                    "Deirdre Quarnstrom"
+                ]
+            },
+            {
+                "title": "首席执行官(CEO)",
+                "names": [
+                    "[卡尔·曼诺] Carl Manneh"
+                ]
+            },
+            {
+                "title": "首席财务官",
+                "names": [
+                    "Karin Severinson"
+                ]
+            },
+            {
+                "title": "首席产品官",
+                "names": [
+                    "Olof Carlson Sandvik"
+                ]
+            },
+            {
+                "title": "项目总监",
+                "names": [
+                    "Jakob Porsér"
+                ]
+            },
+            {
+                "title": "制造总监",
+                "names": [
+                    "Daniel Kaplan"
+                ]
+            },
+            {
+                "title": "游戏总监",
+                "names": [
+                    "Henrik Pettersson"
+                ]
+            },
+            {
+                "title": "游戏设计",
+                "names": [
+                    "Miko Charbonneau",
+                    "Colten Murphy (TEKsystems, Inc)",
+                    "Jesse A Hibbs (TEKsystems, Inc)",
+                    "Melissa Andrews (Insight Global, Inc)"
+                ]
+            },
+            {
+                "title": "首席技术官",
+                "names": [
+                    "Rikard Herlitz"
+                ]
+            },
+            {
+                "title": "游戏开发者",
+                "names": [
+                    "Alexander Kandalaft (Insight Global, Inc)",
+                    "Andrew Griffin (Insight Global, Inc)",
+                    "Aravindan Aarumugam (Virtuosity)",
+                    "Aron Nieminen",
+                    "Benjamin Arnold (Insight Global, Inc)",
+                    "Campbell Tran",
+                    "Chris Barrett (Apex Systems Inc)",
+                    "Christian Westman",
+                    "Clayton Vaught",
+                    "Daniel Frisk",
+                    "Daniel Wustenhoff",
+                    "Emily Rizzo (Insight Global, Inc)",
+                    "Irina Koulinitch",
+                    "Isaac de la Vega",
+                    "Jagannathan Mannu (Virtuosity)",
+                    "Jakob Pogulis",
+                    "Jeff “Dextor” Blazier",
+                    "Jeffrey Kumley (Insight Global, Inc)",
+                    "Joachim Larsson",
+                    "Johan Bernhardsson",
+                    "Josh Letellier",
+                    "Jon Maiga",
+                    "Joshua B Davis",
+                    "Luis A Angel Mex",
+                    "Magnus Bentling",
+                    "Maria Lemón",
+                    "Markus Arvidsson",
+                    "Michael “Mikaus“ Whiteley",
+                    "Michael Klopfenstein (Insight Global, Inc)",
+                    "Nathan Gilbert",
+                    "Patrick O’Leary",
+                    "Rakshith Murthy (Virtuosity)",
+                    "Rui Xie (Insight Global, Inc)",
+                    "Ryan Holtz",
+                    "Sina Tamanna",
+                    "Spencer Peterson (Insight Global, Inc)",
+                    "Subramani Ramanathan (Virtuosity)",
+                    "Sumith Kumar (Virtuosity)",
+                    "Tobias Möllstam",
+                    "Tomas Guimbretière",
+                    "Uma Senthil Raj (Virtuosity)",
+                    "Vignesh Masilamani (Virtuosity)",
+                    "Cullen Waters"
+                ]
+            },
+            {
+                "title": "首席用户界面(UI)开发者",
+                "names": [
+                    "Sebasian Hindefeldt"
+                ]
+            },
+            {
+                "title": "用户界面(UI)开发者",
+                "names": [
+                    "Dario Vodopivec",
+                    "Emelie Sidesiö",
+                    "Michael Novén",
+                    "Kirill Mikhel"
+                ]
+            },
+            {
+                "title": "附加程序员",
+                "names": [
+                    "Elliot 'Hippoplatimus' Segal",
+                    "Paul Spooner",
+                    "Ryan 'Scaevolus' Hitchman"
+                ]
+            },
+            {
+                "title": "启动器",
+                "names": [
+                    "Anders Rosén",
+                    "Carl Westin",
+                    "David Zevallos"
+                ]
+            },
+            {
+                "title": "创造者",
+                "names": [
+                    "Tommaso Checchi"
+                ]
+            },
+            {
+                "title": "首席基岩版软件开发者",
+                "names": [
+                    "Aaron Heysse",
+                    "Adrian LaVallee",
+                    "Sebastian Hindefelt",
+                    "Timothy J Schutz"
+                ]
+            },
+            {
+                "title": "软件开发者",
+                "names": [
+                    "Arend Danielek (TEKsystems, Inc)",
+                    "Dave Stevens",
+                    "David “Lion” Kimbro (Insight Global, Inc)",
+                    "Elijah J Emerson",
+                    "Jeffrey J Jou (Insight Global, Inc)",
+                    "John Estess (Randstad)",
+                    "Jonathan M Ortiz",
+                    "Jorge Antonio Jimenez (Design Laboratory Inc)",
+                    "Karim A Luccin",
+                    "Lisa Sturm",
+                    "Mark Rowland (Collabera)",
+                    "Matthew Guze (WaferWire Cloud Technologies)",
+                    "Maxwell Orth (Insight Global, Inc)",
+                    "Oskar Carlbaum",
+                    "Semih Energin",
+                    "Taylor M Riviera",
+                    "Rob Austin",
+                    "David Westen"
+                ]
+            },
+            {
+                "title": "Realms 开发者",
+                "names": [
+                    "Alexander Johansson",
+                    "Amir Moulavi",
+                    "Arockia Stanly (Virtuosity)",
+                    "Barani Dharan (Virtuosity)",
+                    "David Marby",
+                    "Erik Bylund",
+                    "Johnny Sjöö",
+                    "Magnus Jäderberg",
+                    "Mats Henricson",
+                    "Philip Vieira"
+                ]
+            },
+            {
+                "title": "首席系统工程师",
+                "names": [
+                    "Tom Miles",
+                    "Tomas Sommar"
+                ]
+            },
+            {
+                "title": "系统工程师",
+                "names": [
+                    "Hazen Miller (Insight Global, Inc)",
+                    "Louis A Castaneda (Insight Global, Inc)",
+                    "Geof Sawaya (Collabera)"
+                ]
+            },
+            {
+                "title": "服务软件工程师",
+                "names": [
+                    "Joakim Ejenstam",
+                    "Anders Martini",
+                    "Don S Frazier II",
+                    "Guillaume Le Chenadec",
+                    "Haley Eisenshtadt",
+                    "Nathan Sosnovske",
+                    "Stacy J Chen"
+                ]
+            },
+            {
+                "title": "软件工程师",
+                "names": [
+                    "Evelyn Collier (Insight Global)",
+                    "Michael Andersson",
+                    "Robyn R To"
+                ]
+            },
+            {
+                "title": "系统工程师",
+                "names": [
+                    "Robert Thresher (Collabera)"
+                ]
+            },
+            {
+                "title": "系统开发者",
+                "names": [
+                    "Christoffer Hammarström",
+                    "Dodge Lafnitzegger (Insight Global, Inc)",
+                    "Leonard Gram",
+                    "Martin Odhelius"
+                ]
+            },
+            {
+                "title": "艺术总监",
+                "names": [
+                    "Brad Shuber"
+                ]
+            },
+            {
+                "title": "首席艺术家",
+                "names": [
+                    "Sarah Kisor"
+                ]
+            },
+            {
+                "title": "3D/特效(VFX)",
+                "names": [
+                    "Elin Ölund Forsling"
+                ]
+            },
+            {
+                "title": "艺术",
+                "names": [
+                    "Amanda Cook (Harvey Nash)",
+                    "Bart Kaufman (Randstad)",
+                    "Branden Brushett (Aquent LLC)",
+                    "Jules Norcross (Aquent LLC)",
+                    "Kelly Greene (CompuCom Systems Inc)",
+                    "Kristen Malone (Randstad)",
+                    "Michael R Fiedler (Insight Global, Inc)",
+                    "Miki Bishop (Randstad)",
+                    "Patrick A Rodes (Insight Global, Inc)"
+                ]
+            },
+            {
+                "title": "图形艺术",
+                "names": [
+                    "Jerica Harada (TEKsystems, Inc)",
+                    "Kristoffer Zetterstrand",
+                    "Poi Poi Chen"
+                ]
+            },
+            {
+                "title": "附加图形",
+                "names": [
+                    "Jonatan Pöljö",
+                    "Mariana Graham Ramirez"
+                ]
+            },
+            {
+                "title": "运动图形设计",
+                "names": [
+                    "Gabe Philbin (Randstad)"
+                ]
+            },
+            {
+                "title": "音效设计",
+                "names": [
+                    "Peter Hont",
+                    "Shauny Jang (Insight Global, Inc)"
+                ]
+            },
+            {
+                "title": "执行制作",
+                "names": [
+                    "Erin Krell"
+                ]
+            },
+            {
+                "title": "制作",
+                "names": [
+                    "Alen Voljevica",
+                    "Anthony Hanses (Insight Global, Inc)",
+                    "Austin Maestre",
+                    "Chris Casanova",
+                    "Dani Flores (Insight Global, Inc)",
+                    "Dayana Sharshukova (Aquent LLC)",
+                    "Decker Geddes (Insight Global, Inc)",
+                    "Dejan Dimic",
+                    "Isabella Arningsmark",
+                    "Jason Rice",
+                    "Jennifer Lee (Insight Global, Inc)",
+                    "Johannes Fridd",
+                    "Juan Gril",
+                    "Justin Woods",
+                    "Justine Loong",
+                    "Marcus Rundström",
+                    "Matt Rodgers (eXcell, a division of CompuCom)",
+                    "Nick Severson",
+                    "Robin Linder",
+                    "Sara Lidberg",
+                    "Thomas Feng",
+                    "Trevor McCann (Yoh Services LLC)",
+                    "William C Meyer (Pivotal Consulting LLC)",
+                    "Yesernia Cisneros"
+                ]
+            },
+            {
+                "title": "制作助理",
+                "names": [
+                    "Warren Loo"
+                ]
+            },
+            {
+                "title": "发布经理",
+                "names": [
+                    "Brogan Irwin (Virtuosity)",
+                    "Dustin Wood (Design Laboratory Inc)"
+                ]
+            },
+            {
+                "title": "产品艺术总监",
+                "names": [
+                    "Alexis Holmqvist"
+                ]
+            },
+            {
+                "title": "制造设计",
+                "names": [
+                    "Jennifer Hammervald"
+                ]
+            },
+            {
+                "title": "用户体验设计总监",
+                "names": [
+                    "Stephen Whetstine",
+                    "Tobias Ahlin"
+                ]
+            },
+            {
+                "title": "用户体验设计",
+                "names": [
+                    "Connor Tompsett (CompuCom Systems Inc)",
+                    "Lily Ekman",
+                    "Oscar Nilsson"
+                ]
+            },
+            {
+                "title": "参谋长",
+                "names": [
+                    "Andrew J. Adamyk"
+                ]
+            },
+            {
+                "title": "执行业务管理员",
+                "names": [
+                    "Cathy Wickersham",
+                    "Darla J Barrett"
+                ]
+            },
+            {
+                "title": "业务管理员",
+                "names": [
+                    "Shae M. Flanigan (C2S Technologies Inc)"
+                ]
+            },
+            {
+                "title": "办公室经理",
+                "names": [
+                    "Alex Andersson",
+                    "Charlotte Wredesjö",
+                    "Jill Curran",
+                    "Linn Hultman",
+                    "Mikaela Prim"
+                ]
+            },
+            {
+                "title": "接待",
+                "names": [
+                    "Chaimae Truving"
+                ]
+            },
+            {
+                "title": "数据科学 & 研究主管",
+                "names": [
+                    "Warren Durrett"
+                ]
+            },
+            {
+                "title": "数据科学 & 研究",
+                "names": [
+                    "Abby Jaloway (National Business Innovations)",
+                    "Brynjólfur Erlingsson",
+                    "Darin LaSota (Design Laboratory Inc)",
+                    "Ethan Batson (Design Laboratory Inc)",
+                    "Gil Darves (Design Laboratory Inc)",
+                    "Jari Williams",
+                    "Murali Nagarajan (Design Laboratory Inc)",
+                    "Nick Martin (Design Laboratory Inc)",
+                    "Patrick Worthey (Design Laboratory Inc)",
+                    "Pawan Panaganti (Design Laboratory Inc)",
+                    "Srini Viswanatham (Design Laboratory Inc)",
+                    "Tim Ross (Simplicity Consulting Inc)",
+                    "Yuvaraj Duraisamy (Design Laboratory Inc)"
+                ]
+            },
+            {
+                "title": "业务发展总监",
+                "names": [
+                    "Cherie D Lutz"
+                ]
+            },
+            {
+                "title": "业务策划总监",
+                "names": [
+                    "Adam Tratt"
+                ]
+            },
+            {
+                "title": "业务经理",
+                "names": [
+                    "Bill Wu",
+                    "Claudine Ursino (Simplicity Consulting Inc)",
+                    "Dennis Laviolette",
+                    "Vanessa Dagnino (Simplicity Consulting Inc)"
+                ]
+            },
+            {
+                "title": "业务研究",
+                "names": [
+                    "Alvin M Chin (Populus Group, LLC)"
+                ]
+            },
+            {
+                "title": "Minecraft 内容协调",
+                "names": [
+                    "Adam Martinsson",
+                    "Sara Lempiäinen"
+                ]
+            },
+            {
+                "title": "项目经理",
+                "names": [
+                    "Amber Wu (Shang Hai Wei Chuang Ruan Jian)",
+                    "Meenoo Rami",
+                    "Maria Olekheyko",
+                    "Timothy J Ross (Simplicity Consulting Inc)"
+                ]
+            },
+            {
+                "title": "创意总监",
+                "names": [
+                    "John Hendricks"
+                ]
+            },
+            {
+                "title": "创意传播助理",
+                "names": [
+                    "Emily Richardson"
+                ]
+            },
+            {
+                "title": "社交媒体主管",
+                "names": [
+                    "Amelia Dale"
+                ]
+            },
+            {
+                "title": "玩家操作主管",
+                "names": [
+                    "Aubrey Norris"
+                ]
+            },
+            {
+                "title": "社区经理",
+                "names": [
+                    "Glory Robinson (Experis)",
+                    "Helen Zbihlyj",
+                    "Nova Barlow (Experis)"
+                ]
+            },
+            {
+                "title": "社区支持",
+                "names": [
+                    "Amelia Lindroth Henriksson",
+                    "Ana Barata Martins",
+                    "Andreas Andersson",
+                    "Andreas Jörgensen",
+                    "Angehlica Walling",
+                    "Annika Tripke-Lund",
+                    "Anton Albiin",
+                    "Carl Johnsson",
+                    "Cim Borg",
+                    "Dante Stjernberg",
+                    "David Carlsson",
+                    "David Stuart Dahlgren",
+                    "Elin Frykholm",
+                    "Eliza Hearsum",
+                    "Erik Nordberg",
+                    "Fredrik Henriksson",
+                    "Henrik Davallius",
+                    "Henry Shi",
+                    "Joe Liu",
+                    "Jonny Hair",
+                    "Kevin Vesterlund",
+                    "Mike Till",
+                    "Nicole Jansson",
+                    "Rabi Hadad",
+                    "Robert Miskiewicz",
+                    "Robin Cocks",
+                    "Robin Thunström",
+                    "Theodor Colbing"
+                ]
+            },
+            {
+                "title": "市场经理",
+                "names": [
+                    "Bianca Ciotti",
+                    "Delilah Liu",
+                    "Didac Hormiga",
+                    "Eva Stefanac"
+                ]
+            },
+            {
+                "title": "合规",
+                "names": [
+                    "Christi Davisson"
+                ]
+            },
+            {
+                "title": "知识产权执法主管",
+                "names": [
+                    "Mathias Andersson",
+                    "Teresa Lee Rodewald"
+                ]
+            },
+            {
+                "title": "知识产权执法人员",
+                "names": [
+                    "Marcus Forss",
+                    "Matilda Åkerman"
+                ]
+            },
+            {
+                "title": "首席项目经理",
+                "names": [
+                    "Vera Mirchev"
+                ]
+            },
+            {
+                "title": "开发伙伴：Skybox",
+                "names": [
+                    "Ace Cheung",
+                    "Alina Varela",
+                    "Ashlyn Gadow",
+                    "Blair Hitchens",
+                    "Bren Lynne",
+                    "Carsten Hooker",
+                    "Chris Klassen",
+                    "Cody Clattenburg",
+                    "Cole Pollock",
+                    "Daniel Shim",
+                    "Dave MacLean",
+                    "Diana Jutras",
+                    "Gabriel J. Gonzalez",
+                    "Gary Shaw",
+                    "Ghafur Remtulla",
+                    "Glen Conolly",
+                    "Graham Laverty",
+                    "Ivan Yemelianov",
+                    "Jake Roman-Barnes",
+                    "Jay Luo",
+                    "Jeffery Chou",
+                    "Jesse Taylor",
+                    "Joel Stack",
+                    "Jonathan Yim",
+                    "Jordan Lacey",
+                    "Jordan Pongracz",
+                    "Justin Moon",
+                    "Keven Nguyen",
+                    "Kevin Hsu",
+                    "Kris Morness",
+                    "Kyle Roblin",
+                    "Leo Stark",
+                    "Marc Faulise",
+                    "Marcel Brake",
+                    "Matheus Depra Gudergues",
+                    "Matt Klassen",
+                    "Max Fanning",
+                    "Mitch Armstrong",
+                    "Mitch Filmer",
+                    "Olivia Chung",
+                    "Oscar Yang",
+                    "Paul Baker",
+                    "Peter Martin",
+                    "Pope Kim",
+                    "Prithiraj Ghosh",
+                    "Reynald Brassard",
+                    "Richard Hawkes",
+                    "Richard Walker",
+                    "Rohit Moni",
+                    "Serge Lansiquot",
+                    "Shaun Foley",
+                    "Simon Gleizes",
+                    "Stefan Sarnev",
+                    "Thiago Braga",
+                    "Tim Bruecker",
+                    "Tim Hinds",
+                    "Trevin Wong",
+                    "Ty Lauriente",
+                    "Tyler Da Costa",
+                    "Yuri Fomenko",
+                    "Zach Chan"
+                ]
+            },
+            {
+                "title": "开发伙伴：BBI",
+                "names": [
+                    "Alex Sharp - Assistant Producer",
+                    "Andrew Yuennan - Programmer",
+                    "Anish Shenwai - Co-Op Programmer",
+                    "Bhavesh Gupta - Associate Programmer",
+                    "Branko Bajcetic - Co-Op Programmer",
+                    "Christina Oh - Co-Op Programmer",
+                    "Christopher Whitman - Programmer",
+                    "David McKay - Associate Producer",
+                    "Duarte Maia - Programmer",
+                    "Elizabeth Pieters - Co-Op Programmer",
+                    "Eric Dahl - Co-Op Programmer",
+                    "Erick Tavares  - Programmer",
+                    "Gupta Bhavesh",
+                    "Hugo Burd - Co-Op Programmer",
+                    "James Fairweather",
+                    "Kelsey Primar - Producer",
+                    "Kevin Yu - Co-Op Programmer",
+                    "Koki Pan - Co-Op Programmer",
+                    "Riley Godard - Associate Programmer",
+                    "Ryan LeMesurier - Lead QA Analyst",
+                    "Thomas Paterson - Programmer",
+                    "Tyler Nilsson",
+                    "Vidhi Shah - Designer",
+                    "Wes Trevor - Senior QA",
+                    "Youhan Guan - Programmer"
+                ]
+            },
+            {
+                "title": "开发伙伴：Red Lens",
+                "names": [
+                    "Christopher Kohnert",
+                    "Joshua Claeys",
+                    "Ryan Davison"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "工作室质量朋友",
+        "titles": [
+            {
+                "title": "质量主管",
+                "names": [
+                    "Tony Harlich"
+                ]
+            },
+            {
+                "title": "质量工程师",
+                "names": [
+                    "Akshata Trivedi"
+                ]
+            },
+            {
+                "title": "质量数据研究 & 工程师",
+                "names": [
+                    "Jeff MacDermot"
+                ]
+            },
+            {
+                "title": "质量助理",
+                "names": [
+                    "Yi Zhao (Kforce)"
+                ]
+            },
+            {
+                "title": "波兰 - 团队主管",
+                "names": [
+                    "Anna Wróbel (Lionbridge)",
+                    "Kamil Bazydło (Lionbridge)",
+                    "Paweł Piekarski (Lionbridge)"
+                ]
+            },
+            {
+                "title": "美国 - 首席软件测试工程师",
+                "names": [
+                    "Chris James (Insight Global, Inc)"
+                ]
+            },
+            {
+                "title": "美国 - 软件测试工程师",
+                "names": [
+                    "Brendan McElroy (Insight Global, Inc)",
+                    "Crystal Edwards (Insight Global, Inc)",
+                    "Dan Parker (Insight Global, Inc)",
+                    "Isaac Dudley (Insight Global, Inc)",
+                    "John Ehresmann (Experis)",
+                    "Sean Colbert (Experis)"
+                ]
+            },
+            {
+                "title": "美国 - 测试助理",
+                "names": [
+                    "Brian Sears (Experis)"
+                ]
+            },
+            {
+                "title": "Lionbridge(翻译)",
+                "names": [
+                    "Adam Prażmo (Lionbridge)",
+                    "Adam Ronowski (Lionbridge)",
+                    "Adrianna Zalewska (Lionbridge)",
+                    "Agata Bidelska (Lionbridge)",
+                    "Andrzej Wojciechowski (Lionbridge)",
+                    "Bartłomiej Dziurżyński (Lionbridge)",
+                    "Bartłomiej Mareczko (Lionbridge)",
+                    "Bartosz Szklarzyński (Lionbridge)",
+                    "Cezary Kociński (Lionbridge)",
+                    "Damian Golik (Lionbridge)",
+                    "Daniel Wystyrk (Lionbridge)",
+                    "Emmanuelle Rodrigues Nunes (Lionbridge)",
+                    "Eva Horvath (Lionbridge)",
+                    "Filip Gwarda (Lionbridge)",
+                    "Filip Muchin (Lionbridge)",
+                    "Jacek Petela (Lionbridge)",
+                    "Jan Gąsiorowski (Lionbridge)",
+                    "Jan Prejs (Lionbridge)",
+                    "Jan Zozman (Lionbridge)",
+                    "Kacper Krupa (Lionbridge)",
+                    "Kamil Zakrzewski (Lionbridge)",
+                    "Karol Kotowicz (Lionbridge)",
+                    "Karol Sobotka (Lionbridge)",
+                    "Karolina Otłowska (Lionbridge)",
+                    "Katarzyna Jaworska (Lionbridge)",
+                    "Krzysztof Połomski (Lionbridge)",
+                    "Łukasz Sajnóg (Lionbridge)",
+                    "Łukasz Walczyński (Lionbridge)",
+                    "Maciej Brzeziński (Lionbridge)",
+                    "Maciej Kienig (Lionbridge)",
+                    "Maksymilian Kałucki (Lionbridge)",
+                    "Małgorzata Janiszewska (Lionbridge)",
+                    "Marcin Papadopoulos-Gajda (Lionbridge)",
+                    "Marco Paparella (Lionbridge)",
+                    "Marek Urbański (Lionbridge)",
+                    "Maria Wypych (Lionbridge)",
+                    "Mateusz Kaliszewski (Lionbridge)",
+                    "Mateusz Majewski (Lionbridge)",
+                    "Mateusz Miturski (Lionbridge)",
+                    "Mateusz Tran Van (Lionbridge)",
+                    "Michał Antosiak (Lionbridge)",
+                    "Michał Młynek (Lionbridge)",
+                    "Michał Woś (Lionbridge)",
+                    "Monika Elandt (Lionbridge)",
+                    "Nijat Aghamali (Lionbridge)",
+                    "Paweł Chruszczewski (Lionbridge)",
+                    "Paweł Kumanowski (Lionbridge)",
+                    "Paweł Neścior (Lionbridge)",
+                    "Piotr Biernacki (Lionbridge)",
+                    "Piotr Gryczan (Lionbridge)",
+                    "Piotr Kolendo (Lionbridge)",
+                    "Piotr Łowin (Lionbridge)",
+                    "Piotr Słomka (Lionbridge)",
+                    "Piotr Zieliński (Lionbridge)",
+                    "Przemysław Goch (Lionbridge)",
+                    "Przemysław Malinowski (Lionbridge)",
+                    "Przemysław Wróbel (Lionbridge)",
+                    "Rafal Pruszkowski (Lionbridge)",
+                    "Rajkumar Kulandaivelu (Lionbridge)",
+                    "Ryszard Kowalczyk (Lionbridge)",
+                    "Sandra Meister (Lionbridge)",
+                    "Šimon Kravár (Lionbridge)",
+                    "Stanisław Dmowski (Lionbridge)",
+                    "Stanisław Grabowsk (Lionbridge)",
+                    "Stanisław Grabowski (Lionbridge)",
+                    "Szymon Mazurek (Lionbridge)",
+                    "Szymon Okoń (Lionbridge)",
+                    "Tomasz Mirkiewicz (Lionbridge)",
+                    "Tomasz Orlecki (Lionbridge)",
+                    "Tomasz Sporczyk (Lionbridge)",
+                    "Tomasz Zdrzalik (Lionbridge)",
+                    "Wojciech Komada (Lionbridge)",
+                    "Wojciech Nieckarz (Lionbridge)"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "提供制作人员名单、闪烁标语、终末之诗的汉化资源包",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "jiecs_23",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "title": "制作人员名单的末尾附有的如下引言 因 MC-227204 Bug 在 Java 1.17 Pre-release 4 以后被移除/无法正常显示",
+                "names": [
+                    "",
+                    "“Twenty years from now you will be more disappointed by the things",
+                    "that you didn't do than by the ones you did do. ",
+                    "So throw off the bowlines. Sail away from the safe harbor. ",
+                    "Catch the trade winds in your sails. Explore. Dream. Discover.”  ——Unknown",
+                    "",
+                    "参考译文：",
+                    "",
+                    "“20年之后，更令你失望的不是你做了什么，而是你没做什么。",
+                    "所以解开帆脚索，离开安全的港湾，赶着航程中的信风，",
+                    "去探索，去梦想，去发现。”  ——佚名"
+                ]
+            }
+        ]
+    }
+]
