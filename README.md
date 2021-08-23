@@ -40,6 +40,7 @@ Minecraft Wiki的 [闪烁标语翻译](https://minecraft.fandom.com/zh/wiki/%E9%
 # 如何贡献
 
 你可以提交更好的翻译，但仅限闪烁标语和制作人员名单
+
 你可以提交更好的格式，但不能修改原本的内容
 
 你不可以提交修改更多内容，或者提交终末之诗的更好翻译，详见 [Minecraft-Text-Sinicization plus+](https://github.com/jiesou/Minecraft-Text-Sinicization/tree/plus)
