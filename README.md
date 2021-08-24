@@ -45,8 +45,7 @@ Minecraft Wiki的 [闪烁标语翻译](https://minecraft.fandom.com/zh/wiki/%E9%
 
 你不可以提交修改更多内容，或者提交终末之诗的更好翻译，详见 [Minecraft-Text-Sinicization plus+](https://github.com/jiesou/Minecraft-Text-Sinicization/tree/plus)
 
-提交 [Pull requests](https://github.com/jiesou/Minecraft-Text-Sinicization/pulls)
-即可
+提交 [Pull requests](https://github.com/jiesou/Minecraft-Text-Sinicization/pulls) 即可
 
 # 许可证
 
