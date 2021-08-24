@@ -21,7 +21,7 @@ This resource pack can be used to sinicize the end poem, producer lists and spla
 
 # plus+与标准版的区别
 
-1.闪烁标语在原版翻译基础上添加了来自 MC百科 Ethaxiuman 的[MC百科闪烁标语不完全收录](https://bbs.mcmod.cn/thread-2942-1-1.html) 的大量闪烁标语，部分进行了一些修改；也添加了一些自己认为合适的国内的梗等
+1.闪烁标语在原版翻译基础上添加了来自 MC百科 Ethaxiuman 的 [MC百科闪烁标语不完全收录](https://bbs.mcmod.cn/thread-2942-1-1.html) 的大量闪烁标语，部分进行了一些修改；也添加了一些自己认为合适的国内的梗等
 
 2.终末之诗根据自己的理解修改了少量内容，只是帮助理解
 
