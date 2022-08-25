@@ -29,6 +29,7 @@ This resource pack can be used to sinicize the end poem, producer lists and spla
 
 ![image.png](https://i.loli.net/2021/08/24/7h4g1RNuHAMBcQa.png)
 ![image.png](https://i.loli.net/2021/08/24/CxLidra9Yf1snuI.png)
+![image](https://user-images.githubusercontent.com/84175239/186687159-8dcb1dea-0219-4483-981f-ffb91dbc7d48.png)
 
 # 安装和兼容性
 
