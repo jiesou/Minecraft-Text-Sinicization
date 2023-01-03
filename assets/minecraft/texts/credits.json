@@ -22,14 +22,14 @@
             {
                 "title": "Chief Creative Officers",
                 "names": [
-                    "[Jeb] Jens Bergensten",
+                    "Jens Bergensten",
                     "Saxs Persson"
                 ]
             },
             {
                 "title": "Game Directors",
                 "names": [
-                    "[LadyAgnes] Agnes Larsson",
+                    "Agnes Larsson",
                     "Måns Olson"
                 ]
             },
@@ -443,7 +443,7 @@
             {
                 "title": "Sound Designers",
                 "names": [
-                    "[C418] Daniel Rosenfeld",
+                    "Daniel Rosenfeld",
                     "Johan Pettersson",
                     "Kevin Martinez",
                     "Peter Hont",
@@ -2177,7 +2177,7 @@
             {
                 "title": "Original Creator of Minecraft",
                 "names": [
-                    "[Notch] Markus Persson"
+                    "Markus Persson"
                 ]
             },
             {
@@ -3330,57 +3330,7 @@
             {
                 "title": "Github",
                 "names": [
-                    "https://github.com/jiesou/Minecraft-Text-Sinicization/tree/plus",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "title": "制作人员名单的末尾附有的如下引言 因 MC-227204 Bug 在 1.17 Pre 4  - 1.18 Pre 2 版本中无法正常显示",
-                "names": [
-                    "",
-                    "“Twenty years from now you will be more disappointed by the things",
-                    "that you didn't do than by the ones you did do. ",
-                    "So throw off the bowlines. Sail away from the safe harbor. ",
-                    "Catch the trade winds in your sails. Explore. Dream. Discover.”  ——Unknown",
-                    "",
-                    "参考译文：",
-                    "",
-                    "“20年后你会发现，更令你遗憾的不是自己做了什么，而是自己没做什么。",
-                    "所以现在解开帆索，驶离安全的港湾，抓住航行中的每一个机遇。",
-                    "去探索，去梦想，去发现。”   ——佚名"
+                    "https://github.com/jiesou/Minecraft-Text-Sinicization/tree/plus"
                 ]
             }
         ]
