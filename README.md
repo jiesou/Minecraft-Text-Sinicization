@@ -9,7 +9,7 @@ This is minecraft java resource pack.
 This resource pack can be used to sinicize the end poem, producer lists and splash in minecraft.
 
 这是个 Minecraft Java 资源包。
-这个资源包可以将 Minecraft Java 中的制作人员名单、终末之诗和闪烁标语汉化
+这个资源包可以将 Minecraft Java 中的终末之诗和闪烁标语汉化
 
 ## 目录
   - [演示](#演示)
@@ -22,6 +22,7 @@ This resource pack can be used to sinicize the end poem, producer lists and spla
 
 ![image.png](https://i.loli.net/2021/08/24/7h4g1RNuHAMBcQa.png)
 ![image.png](https://i.loli.net/2021/08/24/CxLidra9Yf1snuI.png)
+![image](https://user-images.githubusercontent.com/84175239/186687159-8dcb1dea-0219-4483-981f-ffb91dbc7d48.png)
 
 # 安装和兼容性
 
@@ -33,9 +34,9 @@ This resource pack can be used to sinicize the end poem, producer lists and spla
 
 # 致谢
 
-Minecraft Wiki的 [终末之诗翻译](https://minecraft.fandom.com/zh/wiki/%E7%BB%88%E6%9C%AB%E4%B9%8B%E8%AF%97/text) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+Minecraft Wiki 的 [终末之诗翻译](https://minecraft.fandom.com/zh/wiki/%E7%BB%88%E6%9C%AB%E4%B9%8B%E8%AF%97/text) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 
-Minecraft Wiki的 [闪烁标语翻译](https://minecraft.fandom.com/zh/wiki/%E9%97%AA%E7%83%81%E6%A0%87%E8%AF%AD) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
+Minecraft Wiki 的 [闪烁标语翻译](https://minecraft.fandom.com/zh/wiki/%E9%97%AA%E7%83%81%E6%A0%87%E8%AF%AD) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 
 # 如何贡献
 
