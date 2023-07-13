@@ -9,4 +9,4 @@
 
 jiesou/Minecraft-Text-Sinicization 资源包提供闪烁标语、终末之诗的汉化
 
-Github: https://github.com/jiesou/Minecraft-Text-Sinicization/tree/plus
+Github: https://github.com/jiesou/Minecraft-Text-Sinicization/tree/main
